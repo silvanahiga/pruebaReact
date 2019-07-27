@@ -1,0 +1,35 @@
+/* .movies{
+    display: flex;
+    width: 30%;
+    height: 100px;
+    
+ 
+}
+
+.category{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-content: space-around
+
+
+} */
+
+.movies{
+    display: flex;
+
+}
+
+img{
+    width: 200px;
+    margin: 0 5px;
+}
+.category{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-content: space-around
+
+
+}
+
